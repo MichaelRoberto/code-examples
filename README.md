@@ -16,7 +16,7 @@
      - [Comparando dados](modules/mathematics/statistics-and-probability/comparando-dados.ipynb)  
      - [Review - Média, Mediana, Moda e Intervalo(range)](modules/mathematics/statistics-and-probability/media-mediana-moda-range.ipynb)  
  - __Ciência de Dados:__  
-   - Bibliotecas  
+   - __Bibliotecas__  
      - NumPy  
        - [Introdução ao NumPy](modules/data-science/libraries/numpy/intro-to-numpy.ipynb)  
      - Pandas  
@@ -24,10 +24,10 @@
      - Matplotlib  
        - [Introdução ao Matplotlib](modules/data-science/libraries/matplotlib/intro-to-matplotlib.ipynb)  
  - __Inteligência Artificial:__  
-   - Bibliotecas  
-     - __TensorFlow__  
+   - __Bibliotecas__  
+     - TensorFlow  
        - [Introdução ao TensorFlow](#)
-     - __Scikit-Learn__  
+     - Scikit-Learn  
        - [Prevendo dados com Scikit-Learn](#)
   
 <strong>Rodrigo Leite - Software Engineer</strong>
