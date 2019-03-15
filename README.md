@@ -15,17 +15,19 @@
      - [Fundamentos de Estatísticas](modules/mathematics/statistics-and-probability/fundamentos-de-estatisticas.ipynb)  
      - [Comparando dados](modules/mathematics/statistics-and-probability/comparando-dados.ipynb)  
      - [Review - Média, Mediana, Moda e Intervalo(range)](modules/mathematics/statistics-and-probability/media-mediana-moda-range.ipynb)  
- - __Ciência de Dados (Data Science):__  
-   - __Libraries__  
+ - __Ciência de Dados:__  
+   - Bibliotecas  
      - NumPy  
        - [Introdução ao NumPy](modules/data-science/libraries/numpy/intro-to-numpy.ipynb)  
      - Pandas  
        - [Introdução ao Pandas](modules/data-science/libraries/pandas/intro-to-pandas.ipynb)  
      - Matplotlib  
        - [Introdução ao Matplotlib](modules/data-science/libraries/matplotlib/intro-to-matplotlib.ipynb)  
- - __Inteligência Artificial (Artificial Intelligence):__  
-   - __Libraries__  
+ - __Inteligência Artificial:__  
+   - Bibliotecas  
+     - TensorFlow  
+       - [Introdução ao TensorFlow](#)
      - Scikit-Learn  
-       - [Prevendo dados com Scikit-Learn]()
+       - [Prevendo dados com Scikit-Learn](#)
   
 <strong>Rodrigo Leite - Software Engineer</strong>
