@@ -25,9 +25,9 @@
        - [Introdução ao Matplotlib](modules/data-science/libraries/matplotlib/intro-to-matplotlib.ipynb)  
  - __Inteligência Artificial:__  
    - Bibliotecas  
-     - TensorFlow  
+     - __TensorFlow__  
        - [Introdução ao TensorFlow](#)
-     - Scikit-Learn  
+     - __Scikit-Learn__  
        - [Prevendo dados com Scikit-Learn](#)
   
 <strong>Rodrigo Leite - Software Engineer</strong>
