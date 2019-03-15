@@ -15,5 +15,8 @@
      - [Fundamentos de Estatísticas](modules/mathematics/statistics-and-probability/fundamentos-de-estatisticas.ipynb)  
      - [Comparando dados](modules/mathematics/statistics-and-probability/comparando-dados.ipynb)  
      - [Review - Média, Mediana, Moda e Intervalo(range)](modules/mathematics/statistics-and-probability/media-mediana-moda-range.ipynb)  
+ - __Data Science:__  
+   - __Libraries:__  
+     - [NumPy](modules/data-science/libraries/numpy.ipynb)  
   
 <strong>Rodrigo Leite - Software Engineer</strong>
