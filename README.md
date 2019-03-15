@@ -18,5 +18,6 @@
  - __Data Science:__  
    - __Libraries:__  
      - [NumPy](modules/data-science/libraries/numpy.ipynb)  
+     - [Pandas](modules/data-science/libraries/pandas.ipynb)  
   
 <strong>Rodrigo Leite - Software Engineer</strong>
