@@ -6,7 +6,8 @@
   
 # Contents  
   
- - __x:__  
-   - [x](#)  
+ - __Matemática:__  
+   - __Básico:__  
+     - [Trabalhando com números](modules/mathematics/basic/trabalhando-com-numeros.ipynb)  
   
 <strong>Rodrigo Leite - Software Engineer</strong>
