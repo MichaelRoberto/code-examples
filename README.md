@@ -1,4 +1,4 @@
-# Coding Samples  
+# Coding Examples  
   
 [![License MIT](res/license-MIT-blue.svg)](LICENSE.md)  
   
@@ -28,6 +28,6 @@
      - TensorFlow  
        - [Introdução ao TensorFlow](#)
      - Scikit-Learn  
-       - [Prevendo dados com Scikit-Learn](artificial-intelligence/libraries/scikit-learn/prevendo-dados-com-scikit-learn.ipynb)
+       - [Prevendo dados com Scikit-Learn](modules/artificial-intelligence/libraries/scikit-learn/predicting-data-with-scikit-learn.ipynb)
   
 <strong>Rodrigo Leite - Software Engineer</strong>
