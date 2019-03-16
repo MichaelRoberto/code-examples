@@ -6,28 +6,28 @@
   
 # Contents
   
- - __Matemática:__  
-   - __Básico__  
-     - [Trabalhando com números](modules/mathematics/basic/trabalhando-com-numeros.ipynb)  
-   - __Estatística e Probabilidade__  
-     - [Visualizando dados com Gráficos - (Listas e Tuplas)](modules/mathematics/statistics-and-probability/visualizando-dados-com-graficos.ipynb)  
-     - [Dados & Visualização de Dados](modules/mathematics/statistics-and-probability/dados-e-visualizacao-de-dados.ipynb)  
-     - [Fundamentos de Estatísticas](modules/mathematics/statistics-and-probability/fundamentos-de-estatisticas.ipynb)  
-     - [Comparando dados](modules/mathematics/statistics-and-probability/comparando-dados.ipynb)  
-     - [Review - Média, Mediana, Moda e Intervalo(range)](modules/mathematics/statistics-and-probability/media-mediana-moda-range.ipynb)  
- - __Ciência de Dados:__  
-   - __Bibliotecas__  
+ - __Mathematics:__  
+   - __Basics__  
+     - [Trabalhando com números](modules/mathematics/basic/working-with-numbers.ipynb)  
+   - __Statistics & Probability__  
+     - [Visualizando dados com Gráficos - (Listas e Tuplas)](modules/mathematics/statistics-and-probability/visualizing-data-with-graphs.ipynb)  
+     - [Dados & Visualização de Dados](modules/mathematics/statistics-and-probability/data-and-data-visualization.ipynb)  
+     - [Fundamentos de Estatísticas](modules/mathematics/statistics-and-probability/statistics-fundamentals.ipynb)  
+     - [Comparando dados](modules/mathematics/statistics-and-probability/comparing-data.ipynb)  
+     - [Review - Média, Mediana, Moda e Intervalo(range)](modules/mathematics/statistics-and-probability/review-mean-median-mode-range.ipynb)  
+ - __Data Science:__  
+   - __Libraries__  
      - NumPy  
        - [Introdução ao NumPy](modules/data-science/libraries/numpy/intro-to-numpy.ipynb)  
      - Pandas  
        - [Introdução ao Pandas](modules/data-science/libraries/pandas/intro-to-pandas.ipynb)  
      - Matplotlib  
        - [Introdução ao Matplotlib](modules/data-science/libraries/matplotlib/intro-to-matplotlib.ipynb)  
- - __Inteligência Artificial:__  
-   - __Bibliotecas__  
+ - __Artificial Intelligence:__  
+   - __Libraries__  
      - TensorFlow  
        - [Introdução ao TensorFlow](#)
      - Scikit-Learn  
-       - [Prevendo dados com Scikit-Learn](#)
+       - [Prevendo dados com Scikit-Learn](artificial-intelligence/libraries/scikit-learn/prevendo-dados-com-scikit-learn.ipynb)
   
 <strong>Rodrigo Leite - Software Engineer</strong>
