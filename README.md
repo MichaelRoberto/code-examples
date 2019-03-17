@@ -1,4 +1,4 @@
-# Coding Examples  
+# Code Examples  
   
 [![License MIT](res/license-MIT-blue.svg)](LICENSE.md)  
   
@@ -26,7 +26,7 @@
  - __Artificial Intelligence:__  
    - __Libraries__  
      - TensorFlow  
-       - [Introdução ao TensorFlow](#)
+       - [Introdução ao TensorFlow](modules/artificial-intelligence/libraries/tensorflow/intro-to-tensorflow.ipynb)
      - Scikit-Learn  
        - [Prevendo dados com Scikit-Learn](modules/artificial-intelligence/libraries/scikit-learn/predicting-data-with-scikit-learn.ipynb)
   
