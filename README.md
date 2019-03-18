@@ -14,6 +14,7 @@
      - [Dados & Visualização de Dados](modules/mathematics/statistics-and-probability/data-and-data-visualization.ipynb)  
      - [Fundamentos de Estatísticas](modules/mathematics/statistics-and-probability/statistics-fundamentals.ipynb)  
      - [Comparando dados](modules/mathematics/statistics-and-probability/comparing-data.ipynb)  
+     - [Probabilidade](modules/mathematics/statistics-and-probability/probability.ipynb)  
      - [Review - Média, Mediana, Moda e Intervalo(range)](modules/mathematics/statistics-and-probability/review-mean-median-mode-range.ipynb)  
  - __Data Science:__  
    - __Libraries__  
