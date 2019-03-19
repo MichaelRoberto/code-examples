@@ -19,6 +19,7 @@
    - __Vectors and Matrices__  
      - [Vetores](modules/mathematics/vectors-and-matrices/vectors.ipynb)  
      - [Multiplicação vetorial](modules/mathematics/vectors-and-matrices/vector-multiplication.ipynb)  
+     - [Matrizes](modules/mathematics/vectors-and-matrices/matrices.ipynb)  
  - __Data Science:__  
    - __Libraries__  
      - NumPy  
