@@ -16,6 +16,8 @@
      - [Comparando dados](modules/mathematics/statistics-and-probability/comparing-data.ipynb)  
      - [Probabilidade](modules/mathematics/statistics-and-probability/probability.ipynb)  
      - [Review - Média, Mediana, Moda e Intervalo(range)](modules/mathematics/statistics-and-probability/review-mean-median-mode-range.ipynb)  
+   - __Vectors and Matrices__   
+     - [Vetores](modules/mathematics/vectors-and-matrices/vectors.ipynb)  
  - __Data Science:__  
    - __Libraries__  
      - NumPy  
