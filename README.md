@@ -20,6 +20,7 @@
      - [Vetores](modules/mathematics/vectors-and-matrices/vectors.ipynb)  
      - [Multiplicação vetorial](modules/mathematics/vectors-and-matrices/vector-multiplication.ipynb)  
      - [Matrizes](modules/mathematics/vectors-and-matrices/matrices.ipynb)  
+     - [Transformações, autovetores e autovalores](modules/mathematics/vectors-and-matrices/transformations-eigenvectors-and-eigenvalues.ipynb)  
  - __Data Science:__  
    - __Libraries__  
      - NumPy  
